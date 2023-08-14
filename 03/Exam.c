@@ -17,4 +17,6 @@ void main()
 	unsigned long int time_seconds;
 	time_seconds = 145310624;
 
+	printf("%d", money);
+	printf("%d", time_seconds);
 }
