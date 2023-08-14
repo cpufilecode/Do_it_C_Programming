@@ -8,8 +8,8 @@ void main()
 	unsigned char age;
 	age = 52;
 
-	printf("%d", temperature);
-	printf("%d", age);
+	printf("%d\n", temperature);
+	printf("%d\n", age);
 
 	signed long int money;
 	money = 7000000;
@@ -17,6 +17,6 @@ void main()
 	unsigned long int time_seconds;
 	time_seconds = 145310624;
 
-	printf("%d", money);
-	printf("%d", time_seconds);
+	printf("%d\n", money);
+	printf("%d\n", time_seconds);
 }
